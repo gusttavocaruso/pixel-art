@@ -2,7 +2,7 @@ const pixelBoard = document.getElementById('pixel-board');
 const colors = document.querySelectorAll('.color');
 const clearButton = document.getElementById('clear-board');
 
-for (let i = 0; i < 700; i += 1) {
+for (let i = 0; i < 420; i += 1) {
   const pixel = document.createElement('div');
   pixel.className = 'pixel';
   pixelBoard.appendChild(pixel);

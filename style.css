@@ -8,7 +8,7 @@
 .color {
   border: black solid 1px;
   display: inline-block;
-  padding: 30px;
+  padding: 18px;
 }
 
 .one {
@@ -45,7 +45,7 @@
 
 .pixel {
   display: inline-block;
-  border: rgb(189, 188, 188) solid 0.2px;
+  border: rgb(146, 146, 146) solid 0.2px;
   height: 20px;
   width: 20px;
   margin: 0.5px;
@@ -53,7 +53,7 @@
 
 #pixel-board {
   width: 50vw;
-  height: 60vw;
+  height: 30vw;
 }
 
 #color-palette , h1 {
